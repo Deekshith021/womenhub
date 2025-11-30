@@ -440,7 +440,20 @@ This project is open-source and available under the MIT License. See [LICENSE](L
 ---
 
 **Made with ❤️ for empowering women worldwide**
+👤 Project Owner & Author
+
+WomenSkillHub is envisioned, created, and maintained by Deekshith K V.
+
+This project is built with the mission to empower women through skill development, entrepreneurship, financial knowledge, online safety, and rural upliftment — freely and openly accessible to everyone.
+
+The entire platform — backend, frontend, admin panel, AI modules, database architecture, and documentation — is designed and implemented with dedication to create real social impact.
+
+For collaborations, contributions, or improvements, feel free to connect or open an issue or pull request.
+
+— Deekshith K V
+Project Owner • Lead Developer
 
 [⬆ Back to top](#-womenskillhub)
-#   w o m e n h u b  
+#   w o m e n h u b 
+ 
  
